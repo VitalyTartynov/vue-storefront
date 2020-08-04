@@ -27,3 +27,4 @@ jobs:
     - run: yarn install
     - run: yarn build:vc:tools
     - run: yarn build:vc:theme
+    - run: yarn test:vc
